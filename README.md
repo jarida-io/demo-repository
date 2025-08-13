@@ -44,5 +44,8 @@ We welcome contributions from developers worldwide — see [CONTRIBUTING.md](./C
 
 ## Maintainers
 - [Liz Wangui (@kui29)](https://github.com/kui29)
+- [Emmanuel Oyugi (@exile10)](https://github.com/exile10)
+- [Purity Wanjiru (@Wanjiruu-purity)](https://github.com/wanjiruu-purity)
+- [Africia Kerubo (@africiak)](https://github.com/Africiak)
 - [Jerry Ochieng (@JERRYFROMKENYA)](https://github.com/JERRYFROMKENYA)
 
